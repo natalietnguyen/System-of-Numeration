@@ -2,14 +2,6 @@
 
 #  Description: To sort strings containing a combination of digits and lower case letters.
 
-#  Student Name: Natalie Nguyen
-
-#  Student UT EID: ntn687
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52038
-
 #  Date Created: 22 March, 2023
 
 #  Date Last Modified: 22 March, 2023
